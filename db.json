@@ -1,11 +1,8 @@
 {
-  "posts": [
+  "customers": [
     {
-      "id": 1,
-      "title": "hello"
+      "firstname": "mario",
+      "lastname": "giambanco"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
