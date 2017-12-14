@@ -1,4 +1,6 @@
-"customers" : {
+{
+	"customers" : {
 	"firstname": "Mario",
 	"lastname": "Giambanco"
+	}
 }
