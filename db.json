@@ -1,4 +1,4 @@
-customers : {
-	firstname: "Mario",
-	lastname: "Giambanco"
+"customers" : {
+	"firstname": "Mario",
+	"lastname": "Giambanco"
 }
