@@ -1,6 +1,11 @@
 {
-	"posts" : [{
-	"firstname": "Mario",
-	"lastname": "Giambanco"
-	}]
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
